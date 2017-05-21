@@ -9,7 +9,7 @@
 #import "SHKFormFieldLargeTextSettings.h"
 
 #import "UIImage+OurBundle.h"
-#import <UIActivityIndicator-for-SDWebImage/UIImageView+UIActivityIndicatorForSDWebImage.h>
+#import <UIActivityIndicator_for_SDWebImage/UIImageView+UIActivityIndicatorForSDWebImage.h>
 
 @interface SHKFormFieldLargeTextSettings ()
 
